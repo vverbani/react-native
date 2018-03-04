@@ -1,10 +1,9 @@
 
 =================================================================================================
-			Val's Documentation to getting Started with reactNative and Firebase				
+			Val's Documentation to getting Started with reactNative and Firebase.				
 			Reason? To learn something new.														
-			This will be a guide to a 2 week process on developing a simple web-app				
-			Each commit will house a new skill learned											
-			Enjoy!																				
+			This will be a guide to a 2 week process on developing a simple web-app.			
+			Each commit will house a new skill learned.																					
 			-																					
 			Valmir Verbani																		
 = ===============================================================================================
